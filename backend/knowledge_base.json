@@ -1,0 +1,3581 @@
+[
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 240514,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 107695,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 89236,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 179003,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 122136,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 212092,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 140283,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 157441,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 202702,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 150309,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 228175,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 214153,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 154660,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 163250,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 216900,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 221528,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 193911,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 232666,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 206490,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 236120,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 225548,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 172732,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 110556,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 235135,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 115814,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 170689,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 138641,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 120698,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 159886,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 159617,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 144173,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 246194,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 178769,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 235326,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 226225,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 217991,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 220920,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 244313,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 96804,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 140816,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 89674,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 243497,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 158680,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 204585,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 160499,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 187212,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 194487,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 175169,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 200550,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 143377,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 158725,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 107120,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 211717,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 241139,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 236295,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 90482,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Mechanical Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 249532,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Civil Engineering",
+        "minimum_marks": 75,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 221131,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Electrical Engineering",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 163983,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Chemical Engineering",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 243426,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Computer Science and Engineering (CSE)",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 157477,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Electronics and Communication Engineering (ECE)",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 114462,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Biomedical Engineering",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 88814,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "National Institute of Technology (NIT), Tiruchirappalli",
+        "course_name": "Data Science & Analytics Engineering",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 131831,
+        "address": "Tanjore Main Road, Near BHEL, Trichy \u2013 620015",
+        "contact": "+91-431-2503000"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 41509,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 49975,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 46033,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 29048,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 62860,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 63832,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 32550,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 50103,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 31385,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 54436,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 20817,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 63125,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 51270,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 28285,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 61203,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 62155,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 48254,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 51813,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 80486,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "St. Joseph\u2019s Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 37417,
+        "address": "Woraiyur / Annamalai Nagar, Trichy \u2013 620002",
+        "contact": "+91-431-2700320"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 31385,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 71184,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 48182,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 47213,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 61560,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 36142,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 36394,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 71249,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 50736,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Bishop Heber Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 47789,
+        "address": "Vayalur Road, Puthur, Trichy \u2013 620017",
+        "contact": "+91-431-2770136"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 36060,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 77717,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 84576,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 43831,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 38303,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 56290,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 32540,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 74986,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 73529,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Holy Cross Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 54360,
+        "address": "Madurai Road, Theppakulam, Trichy \u2013 620002",
+        "contact": "(College main office)"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 42572,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 90623,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 50316,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 50259,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 39500,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 44265,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 31554,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 42998,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 51258,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "Jamal Mohamed Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 58604,
+        "address": "Race Course Road, Kaja Nagar, Trichy \u2013 620020",
+        "contact": "+91-431-2331135"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 20340,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 87069,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 68080,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 54999,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 36822,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 28091,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 48598,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 40786,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 70217,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "National Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 36918,
+        "address": "Trichy-Dindigul Rd, Karumandapam, Trichy \u2013 620001",
+        "contact": "+91-431-2482719 / +91-9355533401"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 29005,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 74641,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 69091,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 28011,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 32216,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 56558,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 41283,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 87333,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 81434,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Thanthai Periyar Government Arts and Science College",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 34409,
+        "address": "Race Course Road, Kajamalai Colony, Trichy \u2013 620023",
+        "contact": "+91-431-2702797"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 45308,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 77655,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 94109,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 40834,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 32753,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 32080,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 44271,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 87722,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 44799,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Cauvery College for Women",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 30831,
+        "address": "Cauvery Nagar Main Rd, Annamalai Nagar, Trichy \u2013 620003",
+        "contact": "+91-431-2751233"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "BA (Bachelor of Arts)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 39745,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "BBA (Bachelor of Business Administration)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 82139,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "BCA (Bachelor of Computer Applications)",
+        "minimum_marks": 70,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 48404,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Sc Computer Science",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 38005,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Sc Data Science",
+        "minimum_marks": 85,
+        "stream_eligibility": [
+            "Science",
+            "Commerce"
+        ],
+        "qualification_required": "12th",
+        "fees": 62576,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Sc Biochemistry",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 71966,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Sc Microbiology",
+        "minimum_marks": 80,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 50470,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Com (General)",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 56473,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Com Computer Applications (CA)",
+        "minimum_marks": 65,
+        "stream_eligibility": [
+            "Commerce",
+            "Arts",
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 41967,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Urumu Dhanalakshmi College (UDC)",
+        "course_name": "B.Sc Hotel Management",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science"
+        ],
+        "qualification_required": "12th",
+        "fees": 34611,
+        "address": "Venugopal Nagar, Pappakurichi Kattur, Trichy \u2013 620019",
+        "contact": "+91-431-2531966"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 176706,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 159756,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 207811,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 45,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 102898,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 188075,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 165062,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Polytechnic College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 147068,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 99505,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 233208,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 121797,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 45,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 122765,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 237970,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 155005,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "M.I.E.T Polytechnic College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 111574,
+        "address": "Gundur, Trichy \u2013 620007",
+        "contact": "0431-2660302"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 86562,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 143007,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 94481,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 45,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 139534,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 247657,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 136275,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Seshasayee Institute of Technology",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 245446,
+        "address": "Tiruchirappalli, Tamil Nadu",
+        "contact": "N/A"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 134295,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 205351,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 130296,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 110554,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 219658,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 127992,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 113794,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 166530,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 209802,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 200019,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 208618,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 218974,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 206942,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "Trichy Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 167981,
+        "address": "Sivagnanam Nagar, Konalai, Trichy \u2013 621105",
+        "contact": "+91-63854 29749 / 0431-2743135"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 107512,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 106861,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 171123,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 124655,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 207208,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 170229,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 151040,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 121671,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 147447,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 101142,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 229799,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 207198,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 134250,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 159017,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 188067,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 229585,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 219928,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 153686,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 205106,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 204909,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 248434,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 92132,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 148250,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 194671,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 110010,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 96061,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 160020,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "SRM TRP Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 132751,
+        "address": "NH 45, Irungalur, Mannachanallur Taluk, Trichy \u2013 621105",
+        "contact": "0431-2258681 / 0431-2258947"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 99809,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 201079,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 202121,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 107168,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 199061,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 103577,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 128325,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 111404,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 92636,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 212439,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 137709,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 205455,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 109892,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "M.I.E.T Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 157989,
+        "address": "Trichy \u2013 Pudukkottai Road, Tiruchirappalli \u2013 620007",
+        "contact": "0431-2660 302 / 0431-2660 303 / 96886 41444"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 233572,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 158760,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 111848,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 114507,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 104553,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 112972,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 91284,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 243330,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 105624,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 151215,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 207330,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 136810,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 236085,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Saranathan Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 117084,
+        "address": "Venkateswara Nagar, Trichy-Madurai Main Road, Panjappur \u2013 620012",
+        "contact": "84899 15204 (Office)"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 207821,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 104015,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 121091,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 216404,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 143228,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 134417,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 180602,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 113701,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 177259,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 110984,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 156607,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 142069,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 148369,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "Oxford Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 152362,
+        "address": "Pirattiyur / Ramji Nagar, Trichy \u2013 620009",
+        "contact": "0431-2403450 / 0431-2432474"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 167486,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Mechanical Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 116516,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 145253,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Civil Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 107129,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 122829,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Electrical & Electronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 97001,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 147940,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Electronics & Communication Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 108376,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 169210,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Computer Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 151961,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 209153,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Mechatronics Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 118067,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "10th",
+        "fees": 90206,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "M.A.M Engineering College",
+        "course_name": "Diploma in Automobile Engineering",
+        "minimum_marks": 40,
+        "stream_eligibility": [
+            "Science",
+            "Maths"
+        ],
+        "qualification_required": "12th",
+        "fees": 94606,
+        "address": "Trichy \u2013 Chennai Trunk Road, Siruganur \u2013 621105",
+        "contact": "0431-2650377 / +91-99525 22022"
+    },
+    {
+        "college_name": "K.A.P. Viswanathan Government Medical College",
+        "course_name": "MBBS",
+        "minimum_marks": 90,
+        "stream_eligibility": [
+            "Science",
+            "Biology"
+        ],
+        "qualification_required": "12th",
+        "fees": 13610,
+        "address": "Periyamilaguparai, Collector's Office Road, Trichy – 620001",
+        "contact": "0431-2401011"
+    },
+    {
+        "college_name": "Trichy SRM Medical College Hospital and Research Centre",
+        "course_name": "MBBS",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science",
+            "Biology"
+        ],
+        "qualification_required": "12th",
+        "fees": 1800000,
+        "address": "Irungalur, Mannachanallur Taluk, Trichy – 621105",
+        "contact": "0431-2258956"
+    },
+    {
+        "college_name": "Dhanalakshmi Srinivasan Medical College",
+        "course_name": "MBBS",
+        "minimum_marks": 60,
+        "stream_eligibility": [
+            "Science",
+            "Biology"
+        ],
+        "qualification_required": "12th",
+        "fees": 1800000,
+        "address": "NH-45, Trichy - Chennai Highway, Siruvachur, Perambalur – 621113",
+        "contact": "04328–254000"
+    }
+]
