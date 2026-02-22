@@ -8,6 +8,8 @@ import ApplicationForm from './components/ApplicationForm';
 import Footer from './components/Footer';
 import AIChat from './components/AIChat';
 import ResultsPage from './pages/ResultsPage';
+import Login from './pages/Login';
+import Dashboard from './pages/Dashboard';
 import confetti from 'canvas-confetti';
 
 import { endpoints } from './config';
@@ -118,6 +120,8 @@ function App() {
                 <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/results" element={<ResultsPage />} />
+                    <Route path="/login" element={<Login />} />
+                    <Route path="/dashboard" element={<Dashboard />} />
                 </Routes>
             </div>
         </Router>

@@ -320,7 +320,7 @@ const AdmissionForm = ({ onSubmit, isLoading }) => {
                 <div className="subject-grid" style={{ marginBottom: '2rem', display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))', gap: '1.5rem' }}>
                     {getSubjects().map(subject => (
                         <div key={subject} style={{ background: 'var(--bg-off-white)', padding: '1rem', borderRadius: 'var(--radius-md)', border: '1px solid var(--border-color)', transition: 'all 0.2s', boxShadow: 'var(--shadow-sm)' }}>
-                            <label style={{ fontSize: '0.8rem', fontWeight: '700', color: 'var(--text-muted)', textTransform: 'uppercase', display: 'block', marginBottom: '0.5rem', height: '32px', display: 'flex', alignItems: 'center' }}>
+                            <label style={{ fontSize: '0.8rem', fontWeight: '700', color: 'var(--text-muted)', textTransform: 'uppercase', marginBottom: '0.5rem', height: '32px', display: 'flex', alignItems: 'center' }}>
                                 {subject}
                             </label>
                             <input

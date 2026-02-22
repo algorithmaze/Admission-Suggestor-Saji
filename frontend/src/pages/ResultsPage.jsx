@@ -108,8 +108,7 @@ const ResultsPage = () => {
                     border: '1px solid var(--border-color)',
                     display: 'flex',
                     alignItems: 'center',
-                    justifyContent: 'space-between',
-                    boxShadow: 'var(--shadow-sm)'
+                    justifyContent: 'space-between'
                 }}>
                     <button
                         onClick={() => navigate('/')}

@@ -60,6 +60,9 @@ Uvicorn (ASGI server)
 Pydantic (data validation)
 
 
+SQLAlchemy (SQLite Database)
+
+
 Data Source
 
 
@@ -369,5 +372,4 @@ PDF download of admission suggestions
 
 13. Conclusion
 This Student Admission Suggester provides a structured, scalable, and user-friendly solution to guide students during college admissions.
-Using React for frontend and FastAPI for backend, the system ensures fast performance, clean architecture, and easy future expansion.
-
+Using React for frontend, FastAPI for backend, and SQLite for data persistence, the system ensures fast performance, clean architecture, and easy future expansion.

@@ -9,6 +9,13 @@ from dotenv import load_dotenv
 import asyncio
 import random
 
+from database import engine, Base, get_db
+from models import Application
+from sqlalchemy.orm import Session
+from fastapi import Depends
+
+Base.metadata.create_all(bind=engine)
+
 load_dotenv() # Reloads env vars
 # Trigger reload for config update
 api_key = os.getenv("GROQ_API_KEY")
@@ -588,12 +595,15 @@ class ApplicationInput(BaseModel):
 applications_db = []
 
 @app.post("/submit-application")
-async def submit_application(application: ApplicationInput):
+async def submit_application(application: ApplicationInput, db: Session = Depends(get_db)):
     # 1. Duplicate Check
-    for app in applications_db:
-        if app["college"] == application.college:
-            if app["email"] == application.email or app["phone"] == application.phone:
-                raise HTTPException(status_code=400, detail="Application already submitted for this college with this Email or Phone.")
+    existing_app = db.query(Application).filter(
+        Application.college == application.college,
+        (Application.email == application.email) | (Application.phone == application.phone)
+    ).first()
+
+    if existing_app:
+        raise HTTPException(status_code=400, detail="Application already submitted for this college with this Email or Phone.")
 
     # 2. Generate Reference ID
     # Abbreviation: First letter of each word in uppercase
@@ -611,11 +621,32 @@ async def submit_application(application: ApplicationInput):
     random_digits = random.randint(10000, 99999)
     ref_id = f"{college_abbr}{current_year}{random_digits}"
     
-    # 3. Log application (In-Memory Persistence)
-    app_record = application.dict()
-    app_record["reference_id"] = ref_id
-    app_record["timestamp"] = datetime.datetime.now().isoformat()
-    applications_db.append(app_record)
+    # 3. Save application (SQLite Persistence)
+    try:
+        marks_percentage = float(application.marksPercentage) if application.marksPercentage != "N/A" else 0.0
+    except ValueError:
+        marks_percentage = 0.0
+
+    new_app = Application(
+        college=application.college,
+        studentName=application.studentName,
+        parentName=application.parentName,
+        email=application.email,
+        phone=application.phone,
+        gender=application.gender,
+        dob=application.dob,
+        community=application.community,
+        address=application.address,
+        qualification=application.qualification,
+        stream=application.stream,
+        marksPercentage=marks_percentage,
+        courseApplied=application.courseApplied,
+        message=application.message,
+        reference_id=ref_id
+    )
+    db.add(new_app)
+    db.commit()
+    db.refresh(new_app)
 
     print(f"Received Application for {application.college} from {application.studentName} ({application.email}) - Ref: {ref_id}")
 
@@ -744,6 +775,25 @@ async def submit_application(application: ApplicationInput):
         response_msg += f" (Note: Email sending failed: {str(e)})"
 
     return {"message": response_msg, "reference_id": ref_id}
+
+# Dashboard Authentication Logic
+class LoginRequest(BaseModel):
+    username: str
+    password: str
+
+@app.post("/login")
+async def login(req: LoginRequest):
+    # Hardcoded dashboard users
+    if req.username == "admin" and req.password == "shaji":
+        return {"message": "Login successful", "token": f"token_{req.username}", "role": "Super Admin"}
+    
+    raise HTTPException(status_code=401, detail="Invalid username or password")
+
+@app.get("/applications")
+async def get_applications(db: Session = Depends(get_db)):
+    """Fetch all applications for dashboard view."""
+    applications = db.query(Application).all()
+    return applications
 
 if __name__ == "__main__":
     import uvicorn
